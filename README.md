@@ -8,7 +8,7 @@ Para poder ejecutar el programa, solo necesitas descargar y ejecutar el archivo 
 Necesitas tener instalado python 3 con los módulos tkinter y feedparser.
 
 # Ejecución
-Para ejecutar el programa, haz doble click sobre el archivo TP3.py o introduce la ruta del mismo en la consola de comandos.
+Para ejecutar el programa, haz doble click sobre el archivo TP3prueba4.py o introduce la ruta del mismo en la consola de comandos.
 
 # Objetivo
 El objetivo del script es mostrar en pantalla una recopilación de titulos de noticias sobre videojuegos partiendo de una o varias palabras clave introducidas previamente por el usuario. 
