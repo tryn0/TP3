@@ -19,5 +19,8 @@ He utilizado los módulos tkiter y feedparser. A través del primero apareceran 
 ## Comentario final
 Soy consciente de los errores, por ejemplo he tenido que dejar el cuadro de texto que aparece en la primera ventana, aunque lo he inutilizado. Seguiré avanzando para mejorarlo.
 
+## Información
+Este es un fork del repositorio TP3 de JoseLQB, con código retocado y añadidos.
+
 ## Autor
 Jose Luis Quintanilla Blanco
